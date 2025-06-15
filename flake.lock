@@ -332,6 +332,7 @@
         "plugins-hardtime-nvim": "plugins-hardtime-nvim",
         "plugins-jupytext-nvim": "plugins-jupytext-nvim",
         "plugins-log-highlight-nvim": "plugins-log-highlight-nvim",
+        "plugins-molten-nvim": "plugins-molten-nvim",
         "plugins-neorg-interim-ls": "plugins-neorg-interim-ls",
         "plugins-nix-store-nvim": "plugins-nix-store-nvim",
         "plugins-roslyn-nvim": "plugins-roslyn-nvim",
@@ -339,11 +340,11 @@
         "plugins-venv-selector-nvim": "plugins-venv-selector-nvim"
       },
       "locked": {
-        "lastModified": 1749816769,
-        "narHash": "sha256-Vc9/tWxMhkH8WS/XJMQqBl1u742qRV8jnFK3mrgZ0eQ=",
+        "lastModified": 1749979257,
+        "narHash": "sha256-JJK0cED+IUZBlFWdIiesWhN1ymdj8S5KaFAzD3IjDYI=",
         "owner": "Hier0nim",
         "repo": "nvim",
-        "rev": "89887cf21fdc7fdea42b6af728416df8012f91ec",
+        "rev": "af9f3050001514a435c2f9a7d528849cb64243dc",
         "type": "github"
       },
       "original": {
@@ -566,6 +567,22 @@
       "original": {
         "owner": "fei6409",
         "repo": "log-highlight.nvim",
+        "type": "github"
+      }
+    },
+    "plugins-molten-nvim": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1747527165,
+        "narHash": "sha256-olmGcsywBxMlhX4A0SZhjZq5DdJwxQvBWr6QB2AIa8k=",
+        "owner": "benlubas",
+        "repo": "molten-nvim",
+        "rev": "e18ac7395d19a39a8180d7a383a07084940e9090",
+        "type": "github"
+      },
+      "original": {
+        "owner": "benlubas",
+        "repo": "molten-nvim",
         "type": "github"
       }
     },
